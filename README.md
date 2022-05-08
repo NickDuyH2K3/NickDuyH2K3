@@ -2,7 +2,6 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on school stuff's
-- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on game developing
 - 💬 Ask me about anything
 - 📫 How to reach me: Hara#6490 
